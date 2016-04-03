@@ -28,7 +28,7 @@
     "file": "servo.groovy"
   },
   "es08maII": {
-    "outputShaftDiameter": "",
+    "outputShaftDiameter": "4.4",
     "shaftToShortSideDistance": "",
     "bottomOfFlangeToTopOfBody": "",
     "flangeLongDimention": "",
