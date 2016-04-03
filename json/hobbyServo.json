@@ -1,15 +1,15 @@
 {
   "standardMicro": {
-    "outputShaftDiameter": 4.4,
-    "shaftToShortSideDistance": 6.4,
-    "bottomOfFlangeToTopOfBody": 11.8,
-    "flangeLongDimention": 35.0,
-    "tipOfShaftToBottomOfFlange": 17.0,
-    "servoThickDimentionThickness": 23.6,
-    "flangeThickness": 3.0,
-    "servoShaftSideHeight": 28.1,
-    "shaftToShortSideFlandgeEdge": 12.2,
-    "servoThinDimentionThickness": 12.3
+    "outputShaftDiameter": "",
+    "shaftToShortSideDistance": "",
+    "bottomOfFlangeToTopOfBody": "",
+    "flangeLongDimention": "",
+    "tipOfShaftToBottomOfFlange": "",
+    "servoThickDimentionThickness": "",
+    "flangeThickness": "",
+    "servoShaftSideHeight": "",
+    "shaftToShortSideFlandgeEdge": "",
+    "servoThinDimentionThickness": ""
   },
   "standard": {
     "outputShaftDiameter": 5.6,
