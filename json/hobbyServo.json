@@ -29,7 +29,7 @@
   },
   "es08maII": {
     "outputShaftDiameter": "4.4",
-    "shaftToShortSideDistance": "",
+    "shaftToShortSideDistance": "6.4",
     "bottomOfFlangeToTopOfBody": "",
     "flangeLongDimention": "",
     "tipOfShaftToBottomOfFlange": "",
