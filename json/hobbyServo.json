@@ -1,0 +1,12 @@
+{
+  "Pololu35x26": {
+    "flangeDiameter": 22.0,
+    "flangeHeight": 2.0,
+    "length": 26.0,
+    "mountScrew": "M3",
+    "mountSpacing": 26.0,
+    "shaftDiameter": 5.0,
+    "shaftLength": 21.0,
+    "width": 35.2
+  }
+}
