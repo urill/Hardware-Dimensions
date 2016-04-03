@@ -1,4 +1,8 @@
 {
+  "script": {
+    "git": "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+    "file": "servo.groovy"
+  },
   "standardMicro": {
     "servoThinDimentionThickness": 12.3,
     "servoThickDimentionThickness": 23.6,
@@ -23,4 +27,5 @@
     "flangeLongDimention": 56.5,
     "bottomOfFlangeToTopOfBody": 11.2
   }
+  
 }
