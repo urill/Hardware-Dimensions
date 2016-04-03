@@ -1,6 +1,6 @@
 {
   "GenericNEMA11": {
-    "mountScrew": "M3",
+    "mountScrew": "",
     "flangeHeight": 2.0,
     "flangeDiameter": 22.0,
     "length": 26.0,
