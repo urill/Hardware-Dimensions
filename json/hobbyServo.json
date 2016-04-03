@@ -10,7 +10,7 @@
     "flangeThickness": 3.0,
     "flangeLongDimention": 35.0,
     "bottomOfFlangeToTopOfBody": 11.8
-  }
+  },
   "standard": {
     "servoThinDimentionThickness": 19.5,
     "servoThickDimentionThickness": 41.0,
