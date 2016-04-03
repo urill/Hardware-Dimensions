@@ -1,12 +1,26 @@
 {
-  "Pololu35x26": {
-    "flangeDiameter": 22.0,
-    "flangeHeight": 2.0,
-    "length": 26.0,
-    "mountScrew": "M3",
-    "mountSpacing": 26.0,
-    "shaftDiameter": 5.0,
-    "shaftLength": 21.0,
-    "width": 35.2
+  "standardMicro": {
+    "servoThinDimentionThickness": 12.3,
+    "servoThickDimentionThickness": 23.6,
+    "servoShaftSideHeight": 28.1,
+    "outputShaftDiameter": 4.4,
+    "shaftToShortSideDistance": 6.4,
+    "shaftToShortSideFlandgeEdge": 12.2,
+    "tipOfShaftToBottomOfFlange": 17.0,
+    "flangeThickness": 3.0,
+    "flangeLongDimention": 35.0,
+    "bottomOfFlangeToTopOfBody": 11.8
+  }
+  "standard": {
+    "servoThinDimentionThickness": 19.5,
+    "servoThickDimentionThickness": 41.0,
+    "servoShaftSideHeight": 38.3,
+    "outputShaftDiameter": 5.6,
+    "shaftToShortSideDistance": 10.7,
+    "shaftToShortSideFlandgeEdge": 18.3,
+    "tipOfShaftToBottomOfFlange": 18.5,
+    "flangeThickness": 3.0,
+    "flangeLongDimention": 56.5,
+    "bottomOfFlangeToTopOfBody": 11.2
   }
 }
