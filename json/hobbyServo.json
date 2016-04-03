@@ -30,7 +30,7 @@
   "es08maII": {
     "outputShaftDiameter": "4.4",
     "shaftToShortSideDistance": "6.4",
-    "bottomOfFlangeToTopOfBody": "",
+    "bottomOfFlangeToTopOfBody": "11.8",
     "flangeLongDimention": "",
     "tipOfShaftToBottomOfFlange": "",
     "servoThickDimentionThickness": "",
