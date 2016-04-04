@@ -32,7 +32,7 @@
     "servoThickDimentionThickness": "41.0",
     "flangeThickness": "3.0",
     "servoShaftSideHeight": "38.3",
-    "shaftToShortSideFlandgeEdge": 18.3,
+    "shaftToShortSideFlandgeEdge": "18.3",
     "servoThinDimentionThickness": 19.5
   },
   "Test": {
