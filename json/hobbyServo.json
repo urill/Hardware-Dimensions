@@ -28,7 +28,7 @@
     "shaftToShortSideDistance": "10.7",
     "bottomOfFlangeToTopOfBody": "11.2",
     "flangeLongDimention": "56.5",
-    "tipOfShaftToBottomOfFlange": 18.5,
+    "tipOfShaftToBottomOfFlange": "18.5",
     "servoThickDimentionThickness": 41.0,
     "flangeThickness": 3.0,
     "servoShaftSideHeight": 38.3,
