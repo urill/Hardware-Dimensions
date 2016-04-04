@@ -24,7 +24,7 @@
     "servoThinDimentionThickness": 19.5
   },
   "NewSize": {
-    "outputShaftDiameter": 5.6,
+    "outputShaftDiameter": "5.6",
     "shaftToShortSideDistance": 10.7,
     "bottomOfFlangeToTopOfBody": 11.2,
     "flangeLongDimention": 56.5,
