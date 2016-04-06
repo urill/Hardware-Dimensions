@@ -50,14 +50,14 @@
   "towerProMG91": {
     "outputShaftDiameter": "4.4",
     "shaftToShortSideDistance": "6.8",
-    "bottomOfFlangeToTopOfBody": "11.8",
-    "flangeLongDimention": "35.0",
-    "tipOfShaftToBottomOfFlange": "17.0",
-    "servoThickDimentionThickness": "23.6",
-    "flangeThickness": "3.0",
-    "servoShaftSideHeight": "28.1",
-    "shaftToShortSideFlandgeEdge": "12.2",
-    "servoThinDimentionThickness": "12.3"
+    "bottomOfFlangeToTopOfBody": "9.4",
+    "flangeLongDimention": "32",
+    "tipOfShaftToBottomOfFlange": "13.9",
+    "servoThickDimentionThickness": "22.8",
+    "flangeThickness": "2",
+    "servoShaftSideHeight": "31.5",
+    "shaftToShortSideFlandgeEdge": "10.8",
+    "servoThinDimentionThickness": "11.8"
   },
   "script": {
     "git": "https://gist.github.com/3f9fef17b23acfadf3f7.git",
