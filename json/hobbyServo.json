@@ -47,9 +47,9 @@
     "shaftToShortSideFlandgeEdge": "10.8",
     "servoThinDimentionThickness": "11.8"
   },
-  "script": {
-    "git": "https://gist.github.com/3f9fef17b23acfadf3f7.git",
-    "file": "servo.groovy"
+  "meta": {
+    "scriptGit": "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+    "scriptFile": "servo.groovy"
   },
   "es08maII": {
     "outputShaftDiameter": 4.4,
