@@ -35,6 +35,11 @@
     "shaftToShortSideFlandgeEdge": 12.2,
     "servoThinDimentionThickness": 12.3
   },
+  "meta": {
+    "scriptGit": "https://gist.github.com/3f9fef17b23acfadf3f7.git",
+    "actuator": "true",
+    "scriptFile": "servo.groovy"
+  },
   "towerProMG91": {
     "outputShaftDiameter": "4.4",
     "shaftToShortSideDistance": "6.8",
@@ -46,11 +51,6 @@
     "servoShaftSideHeight": "31.5",
     "shaftToShortSideFlandgeEdge": "10.8",
     "servoThinDimentionThickness": "11.8"
-  },
-  "meta": {
-    "scriptGit": "https://gist.github.com/3f9fef17b23acfadf3f7.git",
-    "scriptFile": "servo.groovy",
-    "actuator":"true"
   },
   "es08maII": {
     "outputShaftDiameter": 4.4,
