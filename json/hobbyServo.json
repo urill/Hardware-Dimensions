@@ -23,6 +23,18 @@
     "shaftToShortSideFlandgeEdge": 18.3,
     "servoThinDimentionThickness": 19.5
   },
+  "hv6214mg": {
+    "outputShaftDiameter": "5.9",
+    "shaftToShortSideDistance": "9.7",
+    "bottomOfFlangeToTopOfBody": "13.2",
+    "flangeLongDimention": "56.5",
+    "tipOfShaftToBottomOfFlange": "17.4",
+    "servoThickDimentionThickness": "40.5",
+    "flangeThickness": "3.0",
+    "servoShaftSideHeight": "40.8",
+    "shaftToShortSideFlandgeEdge": "10.2",
+    "servoThinDimentionThickness": "20.1"
+  },
   "Dynam": {
     "outputShaftDiameter": 4.4,
     "shaftToShortSideDistance": 6.4,
