@@ -1,4 +1,9 @@
 {
+  "6920_2RS": {
+    "innerDiameter": 100,
+    "outerDiameter": 140,
+    "width": 20
+  },
   "603zz": {
     "innerDiameter": 3.0,
     "outerDiameter": 9.0,
