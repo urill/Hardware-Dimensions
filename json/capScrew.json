@@ -1,4 +1,9 @@
 {
+  "meta": {
+    "scriptGit": "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
+    "actuator": "false",
+    "scriptFile": "capScrew.groovy"
+  },
   "M1.6": {
     "headDiameter": 3.0,
     "headHeight": 1.6,
