@@ -1,4 +1,9 @@
 {
+  "meta": {
+    "scriptGit": "https://gist.github.com/9d0be0588d5c65e9b3f4399569971be2.git",
+    "actuator": "false",
+    "scriptFile": "LinearBearing.groovy"
+  },
   "LM10UU": {
     "innerDiameter": 10.0,
     "length": 29.0,
