@@ -1,7 +1,6 @@
 {
   "meta": {
     "scriptGit": "https://gist.github.com/825433db965d3150de0e7a1fa8430a65.git",
-    "actuator": "false",
     "scriptFile": "TimingBelt.groovy"
   },
   "AT10": {
