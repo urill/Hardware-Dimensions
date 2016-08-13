@@ -1,4 +1,9 @@
 {
+  "meta": {
+    "scriptGit": "https://gist.github.com/cb9e4207e37668c776eaae643701f92c.git",
+    "actuator": "true",
+    "scriptFile": "nemaStepper.groovy"
+  },
   "GenericNEMA11": {
     "mountScrew": "M3",
     "flangeHeight": 2.0,
