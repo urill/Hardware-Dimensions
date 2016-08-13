@@ -1,7 +1,6 @@
 {
   "meta": {
     "scriptGit": "https://gist.github.com/cedee4d39342798ac7a88771dd91d7d6.git",
-    "actuator": "false",
     "scriptFile": "nutGen.groovy"
   },
   "M1.6": {
