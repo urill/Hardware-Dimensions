@@ -1,4 +1,9 @@
 {
+  "meta": {
+    "scriptGit": "https://gist.github.com/8d15db45599814667f8be1f3910806eb.git",
+    "actuator": "false",
+    "scriptFile": "lockNut.groovy"
+  },
   "M10": {
     "diameter": 10.0,
     "height": 10.0,
