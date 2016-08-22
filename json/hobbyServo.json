@@ -24,16 +24,16 @@
     "servoThinDimentionThickness": 19.5
   },
   "hv6214mg": {
-    "outputShaftDiameter": "5.9",
-    "shaftToShortSideDistance": "9.7",
-    "bottomOfFlangeToTopOfBody": "13.2",
-    "flangeLongDimention": "56.5",
-    "tipOfShaftToBottomOfFlange": "17.4",
-    "servoThickDimentionThickness": "40.5",
-    "flangeThickness": "3.0",
-    "servoShaftSideHeight": "40.8",
-    "shaftToShortSideFlandgeEdge": "18.2",
-    "servoThinDimentionThickness": "20.1"
+    "outputShaftDiameter": 5.9,
+    "shaftToShortSideDistance": 9.7,
+    "bottomOfFlangeToTopOfBody": 13.2,
+    "flangeLongDimention": 56.5,
+    "tipOfShaftToBottomOfFlange": 17.4,
+    "servoThickDimentionThickness": 40.5,
+    "flangeThickness": 3.0,
+    "servoShaftSideHeight": 40.8,
+    "shaftToShortSideFlandgeEdge": 18.2,
+    "servoThinDimentionThickness": 20.1
   },
   "Dynam": {
     "outputShaftDiameter": 4.4,
@@ -53,16 +53,16 @@
     "scriptFile": "servo.groovy"
   },
   "towerProMG91": {
-    "outputShaftDiameter": "4.4",
-    "shaftToShortSideDistance": "6.8",
-    "bottomOfFlangeToTopOfBody": "9.4",
-    "flangeLongDimention": "32",
-    "tipOfShaftToBottomOfFlange": "13.9",
-    "servoThickDimentionThickness": "22.8",
-    "flangeThickness": "2",
-    "servoShaftSideHeight": "31.5",
-    "shaftToShortSideFlandgeEdge": "10.8",
-    "servoThinDimentionThickness": "11.8"
+    "outputShaftDiameter": 4.4,
+    "shaftToShortSideDistance": 6.8,
+    "bottomOfFlangeToTopOfBody": 9.4,
+    "flangeLongDimention": 32.0,
+    "tipOfShaftToBottomOfFlange": 13.9,
+    "servoThickDimentionThickness": 22.8,
+    "flangeThickness": 2.0,
+    "servoShaftSideHeight": 31.5,
+    "shaftToShortSideFlandgeEdge": 10.8,
+    "servoThinDimentionThickness": 11.8
   },
   "es08maII": {
     "outputShaftDiameter": 4.4,
