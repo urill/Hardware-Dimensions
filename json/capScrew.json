@@ -20,6 +20,13 @@
     "headDiameter": 7.0,
     "keyDepth": 2.0
   },
+   "8#32": {
+    "outerDiameter": 4.2,
+    "headHeight": 3.0,
+    "keySize": 3.0,
+    "headDiameter": 7.55,
+    "keyDepth": 2.0
+   },
   "M5": {
     "outerDiameter": 5.0,
     "headHeight": 5.0,
