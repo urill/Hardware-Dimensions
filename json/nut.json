@@ -84,6 +84,11 @@
     "width": 24.0,
     "height": 14.8
   },
+  "8#32": {
+    "diameter": 4.20,
+    "width": 7.55,
+    "height": 3.3
+  },
   "meta": {
     "scriptGit": "https://gist.github.com/cedee4d39342798ac7a88771dd91d7d6.git",
     "scriptFile": "nutGen.groovy"
