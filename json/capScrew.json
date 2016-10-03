@@ -13,11 +13,19 @@
     "headDiameter": 5.5,
     "keyDepth": 1.3
   },
+<<<<<<< HEAD
   "6#32": {
     "outerDiameter": 3.4,
     "headHeight": 1.8,
     "keySize": 1.5,
     "headDiameter":6.5,
+=======
+     "6#32": {
+    "outerDiameter": 3.4,
+    "headHeight": 1.8,
+    "keySize": 1.5,
+    "headDiameter": 6.5,
+>>>>>>> branch 'master' of git@github.com:pjmara/Hardware-Dimensions.git
     "keyDepth": 1.0
    },
   "M4": {
@@ -154,7 +162,11 @@
     "keyDepth": 9.0
   },
   "meta": {
+<<<<<<< HEAD
     "scriptGit": "https://gist.github.com/707d17483f258bfc093153ae17a3a7dc.git",
+=======
+    "scriptGit": "https://gist.github.com/6b1eacb2f273852cd6b918029cbf403e.git",
+>>>>>>> branch 'master' of git@github.com:pjmara/Hardware-Dimensions.git
     "scriptFile": "capScrew.groovy"
   }
 }
