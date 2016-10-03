@@ -1,7 +1,11 @@
 {
    "1x5": {
     "x": 1.0,
-    "y": 5
+    "y": 5.0
+  },
+   "5x10": {
+    "x": 5.0,
+    "y": 10.0
   },
   "meta": {
       "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
