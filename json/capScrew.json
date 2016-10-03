@@ -13,6 +13,13 @@
     "headDiameter": 5.5,
     "keyDepth": 1.3
   },
+  "6#32": {
+    "outerDiameter": 3.4,
+    "headHeight": 1.8,
+    "keySize": 1.5,
+    "headDiameter":6.5,
+    "keyDepth": 1.0
+   },
   "M4": {
     "outerDiameter": 4.0,
     "headHeight": 4.0,
