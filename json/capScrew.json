@@ -17,7 +17,7 @@
     "outerDiameter": 3.4,
     "headHeight": 1.8,
     "keySize": 1.5,
-    "headDiameter": 6.5,
+    "headDiameter":6.5,
     "keyDepth": 1.0
    },
   "M4": {
@@ -154,7 +154,7 @@
     "keyDepth": 9.0
   },
   "meta": {
-    "scriptGit": "https://gist.github.com/77414405df523fbbc1cdff388a3a6a2e.git",
+    "scriptGit": "https://gist.github.com/cf5578c406644e7e4fe5447a698f85d5.git",
     "scriptFile": "capScrew.groovy"
   }
 }
