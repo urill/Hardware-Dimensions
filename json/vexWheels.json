@@ -1,0 +1,26 @@
+{
+  "2.75inchSmooth": {
+    "heightDiameter": 69.83,
+    "totalHeight": 19.59,
+    "tireWidth":11.78,
+    "squareOrRound": "round"
+  },
+   "4inchSmooth": {
+    "diameter": 103.03,
+    "totalHight": 19.59,
+    "tireWidth": 11.78,
+    "squareOrRound": "round"
+  },
+   "4inchStandard": {
+    "diameter": 103.54,
+    "totalHight": 21.58,
+    "tireWidth": 10.61,
+    "squareOrRound": "square"
+  },
+  //omni wheel to be added
+  //little hole in the middle is a square with side length: TDadded
+  "meta": {
+      "scriptGit": "https://github.com/DataManiac18/VexVitaminScripts.git",
+      "scriptFile": "scripts/Wheels.groovy"
+  }
+}
