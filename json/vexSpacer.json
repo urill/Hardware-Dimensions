@@ -26,6 +26,6 @@
   },
   "meta": {
       "scriptGit": "https://github.com/NauticalTooth27/VexVitaminScripts.git",
-      "scriptFile": "scripts/Spacer.groovy"
+      "scriptFile": "scripts/vexSpacer.groovy"
   }
 }
