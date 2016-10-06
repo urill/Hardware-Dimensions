@@ -7,13 +7,13 @@
   },
    "4inchSmooth": {
     "diameter": 103.03,
-    "totalHight": 19.59,
+    "totalHeight": 19.59,
     "tireWidth": 11.78,
     "squareOrRound": "round"
   },
    "4inchStandard": {
     "diameter": 103.54,
-    "totalHight": 21.58,
+    "totalHeight": 21.58,
     "tireWidth": 10.61,
     "squareOrRound": "square"
   },
