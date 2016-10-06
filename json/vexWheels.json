@@ -17,8 +17,10 @@
     "tireWidth": 10.61,
     "squareOrRound": "square"
   },
-  //omni wheel to be added
-  //little hole in the middle is a square with side length: TDadded
+  "Comment/Future Additions" : {
+  "omni wheel to be added" : false,
+  "little hole in the middle is a square with side length": "ToBeAdded"
+  },
   "meta": {
       "scriptGit": "https://github.com/DataManiac18/VexVitaminScripts.git",
       "scriptFile": "scripts/Wheels.groovy"
