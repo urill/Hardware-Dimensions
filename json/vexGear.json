@@ -1,11 +1,11 @@
 {
-  "84T": {
+  "60T": {
     "height": 6.4,
     "diameter": 61,
     "toothLen": 4.5,
-    "numTeeth": 84
+    "numTeeth": 60
   },
-  "60T": {
+  "84T": {
     "height": 6.4,
     "diameter": 86.7,
     "toothLen": 4.5,
@@ -23,13 +23,13 @@
     "toothLen": 4.5,
     "numTeeth": 12
   },
-  "HS84T": {
+  "HS60T": {
     "height": 12.8,
     "diameter": 61,
     "toothLen": 4.5,
-    "numTeeth": 84
+    "numTeeth": 60
   },
-  "HS60T": {
+  "HS84T": {
     "height": 12.8,
     "diameter": 86.7,
     "toothLen": 4.5,
