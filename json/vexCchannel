@@ -1,0 +1,39 @@
+{
+   "2x5": {
+    "x": 2.0,
+    "y": 5.0
+  },
+   "5x5": {
+    "x": 5.0,
+    "y": 5.0
+  },
+  "2x10": {
+    "x": 2.0,
+    "y": 10.0
+  },
+  "5x10": {
+    "x": 5.0,
+    "y": 10.0
+  },
+  "2x15": {
+    "x": 2.0,
+    "y": 15.0
+  },
+  "5x15": {
+    "x": 5.0,
+    "y": 15.0
+  },
+  "2x20": {
+    "x": 2.0,
+    "y": 20.0
+  },
+  "5x20": {
+    "x": 5.0,
+    "y": 20.0
+  },
+  
+  "meta": {
+      "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scriptFile": "scripts/Cchannelscript.groovy"
+  }
+}
