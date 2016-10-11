@@ -1,0 +1,54 @@
+{
+  "60T": {
+    "height": 6.4,
+    "diameter": 61,
+    "toothLen": 4.5,
+    "numTeeth": 60
+  },
+  "84T": {
+    "height": 6.4,
+    "diameter": 86.7,
+    "toothLen": 4.5,
+    "numTeeth": 84
+  },
+  "36T": {
+    "height": 6.4,
+    "diameter": 35.5,
+    "toothLen": 4.5,
+    "numTeeth": 36
+  },
+  "12T": {
+    "height": 6.4,
+    "diameter": 10,
+    "toothLen": 4.5,
+    "numTeeth": 12
+  },
+  "HS60T": {
+    "height": 12.8,
+    "diameter": 61,
+    "toothLen": 4.5,
+    "numTeeth": 60
+  },
+  "HS84T": {
+    "height": 12.8,
+    "diameter": 86.7,
+    "toothLen": 4.5,
+    "numTeeth": 84
+  },
+  "HS36T": {
+    "height": 12.8,
+    "diameter": 35.5,
+    "toothLen": 4.5,
+    "numTeeth": 36
+  },
+  "HS12T": {
+    "height": 12.8,
+    "diameter": 10,
+    "toothLen": 4.5,
+    "numTeeth": 12
+  },
+  "meta": {
+      "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
+      "scriptFile": "scripts/OneByFlatSheet.groovy"
+  }
+}
