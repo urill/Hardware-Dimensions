@@ -4,22 +4,22 @@
     "outerDiameter": 9.53,
     "thickness": 1.02
   },
-  "1/8\"": {
+  "oneEighth": {
     "innerDiameter": 4.93,
     "outerDiameter": 12.7,
     "thickness": 3.18
   },
-   "1/4\"": {
+   "oneQuater": {
     "innerDiameter": 4.93,
     "outerDiameter": 12.7,
     "thickness": 6.35
   },
-  "3/8\"": {
+  "threeEighth": {
     "innerDiameter": 4.93,
     "outerDiameter": 12.7,
     "thickness": 9.53
   },
-  "1/2\"": {
+  "oneHalf": {
     "innerDiameter": 4.93,
     "outerDiameter": 12.7,
     "thickness": 12.7
