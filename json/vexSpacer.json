@@ -25,7 +25,7 @@
     "thickness": 12.7
   },
   "meta": {
-      "scriptGit": "https://github.com/NauticalTooth27/VexVitaminScripts.git",
+      "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scriptFile": "scripts/vexSpacer.groovy"
   }
 }
