@@ -49,6 +49,6 @@
   },
   "meta": {
       "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
-      "scriptFile": "scripts/OneByFlatSheet.groovy"
+      "scriptFile": "scripts/Gear.groovy"
   }
 }
