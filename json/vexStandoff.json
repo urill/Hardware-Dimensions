@@ -56,6 +56,6 @@
   },
   "meta": {
     "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
-    "scriptFile": "standoff.groovy"
+    "scriptFile": "scripts/standoff.groovy"
   }
 }
