@@ -55,7 +55,7 @@
     "length": 152.4
   },
   "meta": {
-    "scriptGit": "https://gist.github.com/cedee4d39342798ac7a88771dd91d7d6.git",
-    "scriptFile": "nutGen.groovy"
+    "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
+    "scriptFile": "standoff.groovy"
   }
 }
