@@ -17,6 +17,13 @@
     "hornThickness": 5.9,
     "numberOfHornArms": 1.0,
     "hornTipDiameter": 3.5
+  }, 
+  "tproSG90_1": {
+    "hornLength": 16.0,
+    "hornBaseDiameter": 6.9,
+    "hornThickness": 3.8,
+    "numberOfHornArms": 1.0,
+    "hornTipDiameter": 3.9
   },
   "hv6214mg_1": {
     "hornLength":23,
