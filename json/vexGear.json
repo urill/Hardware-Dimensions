@@ -47,6 +47,12 @@
     "toothLen": 4.5,
     "numTeeth": 12
   },
+  "15T": {
+    "height": 12.8,
+    "diameter": 10,
+    "toothLen": 4.5,
+    "numTeeth": 15
+  },
   "meta": {
       "scriptGit": "https://github.com/madhephaestus/VexVitaminScripts.git",
       "scriptFile": "scripts/Gear.groovy"
