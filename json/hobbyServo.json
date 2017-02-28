@@ -76,6 +76,18 @@
     "shaftToShortSideFlandgeEdge": 11.8,
     "servoThinDimentionThickness": 12.1
   },
+    "tproTG90": {
+    "outputShaftDiameter": 4.9,
+    "shaftToShortSideDistance": 5.9,
+    "bottomOfFlangeToTopOfBody":11.3,
+    "flangeLongDimention": 32.3,
+    "tipOfShaftToBottomOfFlange": 14.2,
+    "servoThickDimentionThickness": 22.6,
+    "flangeThickness": 2.4,
+    "servoShaftSideHeight": 35.0,
+    "shaftToShortSideFlandgeEdge": 11.8,
+    "servoThinDimentionThickness": 12.1
+  },
   "es08maII": {
     "outputShaftDiameter": 4.4,
     "shaftToShortSideDistance": 6.4,
