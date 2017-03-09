@@ -17,6 +17,15 @@
     "legLength": 50.8,
     "numOfCoils": 6
   }, 
+  "Torsion-9271K133": {
+    "maxTorqueKgCm": 6.360,
+    "deflectionAngle": 360,
+    "od": 20.2692,
+    "id": 13.1064,
+    "wireDiameter": 1.60,
+    "legLength": 50.8,
+    "numOfCoils": 11.50
+  }, 
   "meta": {
     "scriptGit": "https://github.com/madhephaestus/SeriesElasticActuator.git",
     "scriptFile": "torsionSpring.groovy"
