@@ -144,4 +144,10 @@
     "width": 5.0,
     "innerDiameter": 3.0
   }
+  ,
+  "R8-2RS": {
+    "outerDiameter": 28.7,
+    "width": 8.1,
+    "innerDiameter": 12.6
+  }
 }
