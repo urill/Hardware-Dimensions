@@ -11,6 +11,18 @@
     "shaftToShortSideFlandgeEdge": 12.2,
     "servoThinDimentionThickness": 12.3
   },
+  "DHV56mg_sub_Micro": {
+    "outputShaftDiameter": 3.8,
+    "shaftToShortSideDistance": 3.63,
+    "bottomOfFlangeToTopOfBody": 7.65,
+    "flangeLongDimention": 27.5,
+    "tipOfShaftToBottomOfFlange": 10.95,
+    "servoThickDimentionThickness": 19.7,
+    "flangeThickness": 1.38,
+    "servoShaftSideHeight": 24.5,
+    "shaftToShortSideFlandgeEdge": 8.45,
+    "servoThinDimentionThickness": 8.7
+  },
   "standard": {
     "outputShaftDiameter": 5.6,
     "shaftToShortSideDistance": 10.7,
