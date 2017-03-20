@@ -38,5 +38,12 @@
     "hornThickness": 6.6,
     "numberOfHornArms": 6.0,
     "hornTipDiameter": 4.6
+  },
+  "DHV56mg_sub_Micro_1": {
+    "hornLength":17.07,
+    "hornBaseDiameter": 5.87,
+    "hornThickness": 3.85,
+    "numberOfHornArms": 1,
+    "hornTipDiameter": 3.92
   }
 }
