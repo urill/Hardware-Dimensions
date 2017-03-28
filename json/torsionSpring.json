@@ -26,6 +26,15 @@
     "legLength": 50.8,
     "numOfCoils": 11.50
   }, 
+  "Torsion-dummmy": {
+    "maxTorqueKgCm": 6.360,
+    "deflectionAngle": 360,
+    "od": 20.2692,
+    "id": 13.1064,
+    "wireDiameter": 1.60,
+    "legLength": 20,
+    "numOfCoils": 11.50
+  }, 
    "Torsion-9271K136": {
     "maxTorqueKgCm": 49.38,
     "deflectionAngle": 360,
