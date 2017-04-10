@@ -33,11 +33,11 @@
     "hornTipDiameter": 7.1
   },
   "hv6214mg_6": {
-    "hornLength":12.71,
+    "hornLength":13.5,
     "hornBaseDiameter": 8.74,
     "hornThickness": 6.6,
     "numberOfHornArms": 6.0,
-    "hornTipDiameter": 4.6
+    "hornTipDiameter": 4.8
   },
   "DHV56mg_sub_Micro_1": {
     "hornLength":17.07,
