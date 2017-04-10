@@ -20,6 +20,13 @@
     "headDiameter":6.5,
     "keyDepth": 1.0
    },
+   "Inch-1_4-20": {
+    "outerDiameter": 6.3,
+    "headHeight": 3.6,
+    "keySize": 3.5,
+    "headDiameter":12.4,
+    "keyDepth": 1.0
+   },
   "M4": {
     "outerDiameter": 4.0,
     "headHeight": 4.0,
