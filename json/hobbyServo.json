@@ -11,18 +11,6 @@
     "shaftToShortSideFlandgeEdge": 12.2,
     "servoThinDimentionThickness": 12.3
   },
-  "DHV56mg_sub_Micro": {
-    "outputShaftDiameter": 3.8,
-    "shaftToShortSideDistance": 3.63,
-    "bottomOfFlangeToTopOfBody": 7.65,
-    "flangeLongDimention": 27.5,
-    "tipOfShaftToBottomOfFlange": 10.95,
-    "servoThickDimentionThickness": 19.7,
-    "flangeThickness": 1.38,
-    "servoShaftSideHeight": 24.5,
-    "shaftToShortSideFlandgeEdge": 8.45,
-    "servoThinDimentionThickness": 8.7
-  },
   "standard": {
     "outputShaftDiameter": 5.6,
     "shaftToShortSideDistance": 10.7,
@@ -59,10 +47,34 @@
     "shaftToShortSideFlandgeEdge": 12.2,
     "servoThinDimentionThickness": 12.3
   },
+  "DHV56mg_sub_Micro": {
+    "outputShaftDiameter": 3.8,
+    "shaftToShortSideDistance": 3.63,
+    "bottomOfFlangeToTopOfBody": 7.65,
+    "flangeLongDimention": 27.5,
+    "tipOfShaftToBottomOfFlange": 10.95,
+    "servoThickDimentionThickness": 19.7,
+    "flangeThickness": 1.38,
+    "servoShaftSideHeight": 24.5,
+    "shaftToShortSideFlandgeEdge": 8.45,
+    "servoThinDimentionThickness": 8.7
+  },
   "meta": {
     "scriptGit": "https://gist.github.com/3f9fef17b23acfadf3f7.git",
     "actuator": "true",
     "scriptFile": "servo.groovy"
+  },
+  "tproSG90": {
+    "outputShaftDiameter": 4.9,
+    "shaftToShortSideDistance": 5.9,
+    "bottomOfFlangeToTopOfBody": 11.3,
+    "flangeLongDimention": 32.3,
+    "tipOfShaftToBottomOfFlange": 14.2,
+    "servoThickDimentionThickness": 22.6,
+    "flangeThickness": 2.4,
+    "servoShaftSideHeight": 26.7,
+    "shaftToShortSideFlandgeEdge": 11.8,
+    "servoThinDimentionThickness": 12.1
   },
   "towerProMG91": {
     "outputShaftDiameter": 4.4,
@@ -76,22 +88,10 @@
     "shaftToShortSideFlandgeEdge": 10.8,
     "servoThinDimentionThickness": 11.8
   },
-  "tproSG90": {
+  "tproTG90": {
     "outputShaftDiameter": 4.9,
     "shaftToShortSideDistance": 5.9,
-    "bottomOfFlangeToTopOfBody":11.3,
-    "flangeLongDimention": 32.3,
-    "tipOfShaftToBottomOfFlange": 14.2,
-    "servoThickDimentionThickness": 22.6,
-    "flangeThickness": 2.4,
-    "servoShaftSideHeight": 26.7,
-    "shaftToShortSideFlandgeEdge": 11.8,
-    "servoThinDimentionThickness": 12.1
-  },
-    "tproTG90": {
-    "outputShaftDiameter": 4.9,
-    "shaftToShortSideDistance": 5.9,
-    "bottomOfFlangeToTopOfBody":11.3,
+    "bottomOfFlangeToTopOfBody": 11.3,
     "flangeLongDimention": 32.3,
     "tipOfShaftToBottomOfFlange": 14.2,
     "servoThickDimentionThickness": 22.6,
