@@ -88,7 +88,12 @@
     "diameter": 16.0,
     "width": 24.0,
     "height": 14.8
-  },
+  }, 
+  "Inch-1_4-20": {
+    "diameter": 6.3,
+    "width": 11.06,
+    "height": 5.53
+   },
   
   "meta": {
     "scriptGit": "https://gist.github.com/cedee4d39342798ac7a88771dd91d7d6.git",
