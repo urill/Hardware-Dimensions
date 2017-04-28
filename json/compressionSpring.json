@@ -19,6 +19,6 @@
   },
   "meta": {
     "scriptGit": "https://github.com/madhephaestus/SeriesElasticActuator.git",
-    "scriptFile": "compresionSpring.groovy"
+    "scriptFile": "compressionSpring.groovy"
   }
 }
