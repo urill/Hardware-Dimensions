@@ -1,5 +1,5 @@
 {
-  "Compression-12.03kg": {
+  "Compression_12.03kg": {
     "springRateKg_mm": 1.39,
     "relaxedLength": 19.05,
     "od":15.24,
@@ -8,7 +8,7 @@
     "maxLoadKg":	12.03,
     "mmcPN":"9434k134"
   }, 
-  "Compression-dummy": {
+  "Compression_dummy": {
     "springRateKg_mm": 1.39,
     "relaxedLength": 13.8,
     "od":11.2,
