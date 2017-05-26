@@ -25,23 +25,25 @@
     "numberOfHolesPerFlange":2,
     "holeDiameter":3.8,
     "holeEdgetoHoleEdgeShortDistance":5.14,
-    "holeEdgetoHoleEdgeLongDistance":43.44
+    "holeEdgetoHoleEdgeLongDistance":43.44,
+    "holeOrentation":"up"
   },
   "hv6214mg": {
     "outputShaftDiameter": 5.9,
-    "shaftToShortSideDistance": 9.7,
+    "shaftToShortSideDistance": 10,
     "bottomOfFlangeToTopOfBody": 12.4,
     "flangeLongDimention": 56.5,
     "tipOfShaftToBottomOfFlange": 17.4,
     "servoThickDimentionThickness": 40.5,
     "flangeThickness": 3.0,
     "servoShaftSideHeight": 41.8,
-    "shaftToShortSideFlandgeEdge": 18.2,
-    "servoThinDimentionThickness": 20.1,
+    "shaftToShortSideFlandgeEdge": 18.0,
+    "servoThinDimentionThickness": 20.3,
     "numberOfHolesPerFlange":2,
     "holeDiameter":3.8,
     "holeEdgetoHoleEdgeShortDistance":5.14,
-    "holeEdgetoHoleEdgeLongDistance":43.44
+    "holeEdgetoHoleEdgeLongDistance":43.44,
+    "holeOrentation":"up"
   },
   "Dynam": {
     "outputShaftDiameter": 4.4,
