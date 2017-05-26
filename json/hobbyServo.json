@@ -26,7 +26,7 @@
     "holeDiameter":3.8,
     "holeEdgetoHoleEdgeShortDistance":5.14,
     "holeEdgetoHoleEdgeLongDistance":43.44,
-    "holeOrentation":"up"
+    "holeOrentation":"down"
   },
   "hv6214mg": {
     "outputShaftDiameter": 5.9,
